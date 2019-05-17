@@ -1,3 +1,3 @@
-if grep -q /usr/local/sbin "$1"; then
-  echo 1
+if grep -q /usr/local/sbin "/etc/paths"; then
+  echo azazaz
 fi

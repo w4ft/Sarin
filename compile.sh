@@ -5,4 +5,4 @@ cd $1
   --with-libnet=/usr/local/opt/libnet \
   --with-libnids=/usr/local/opt/libnids \
   --without-x > /dev/null 2>&1
-echo done
+echo compile-done
