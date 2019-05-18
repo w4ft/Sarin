@@ -4,5 +4,4 @@ cd $1
   --with-openssl=/usr/local/opt/openssl \
   --with-libnet=/usr/local/opt/libnet \
   --with-libnids=/usr/local/opt/libnids \
-  --without-x > /dev/null 2>&1
-echo compile-done
+  --without-x
