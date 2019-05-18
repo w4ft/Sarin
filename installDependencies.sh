@@ -1,1 +1,1 @@
-brew install berkeley-db libnet libnids libpcap openssl
+brew install berkeley-db libnet libnids libpcap openssl arp-scan
