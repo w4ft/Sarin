@@ -1,1 +1,1 @@
-ifconfig | grep -Eo 'inet (addr:)?([0-9]*\.){3}[0-9]*' | grep -Eo '([0-9]*\.){3}[0-9]*' | grep -v '127.0.0.1'
+ifconfig en0 | grep inet | grep -v inet6 | awk '{print $2}'
