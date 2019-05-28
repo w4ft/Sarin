@@ -1,1 +1,1 @@
-sudo apachectl $1
+echo $2 | sudo -S apachectl $1
