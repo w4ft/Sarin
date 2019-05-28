@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Target.com</ShortName>
+  <LongName>Target.com Search</LongName>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">https://assets.targetimg1.com/static/images/favicon.ico</Image>
+  <Url type="text/html" rel="results" method="get" template="https://www.target.com/s">
+    <Param name="searchTerm" value="{searchTerms}"/>
+    <Param name="lnk" value="opensearch"/>
+  </Url>
+</OpenSearchDescription>
