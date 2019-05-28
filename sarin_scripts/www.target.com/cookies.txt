@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.target.com	TRUE	/	FALSE	1999999999	visitorId	016AFFDCA80002018E4B3F581C8D77D4
-.target.com	TRUE	/	FALSE	1999999999	sapphire	1
-www.target.com	TRUE	/	FALSE	1999999999	GuestLocation	48188|42.301|-83.536|MI|US
-target.com	TRUE	/	FALSE	1999999999	TealeafAkaSid	VUrRCOQkVvPEbfVKYtpjiK7SCBYDv7MJ
-
